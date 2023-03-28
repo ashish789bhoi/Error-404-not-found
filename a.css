@@ -1,0 +1,36 @@
+.text
+{
+    color:red;
+}
+
+.image
+{ width: 500px;
+    height: 368px;
+    float: left;
+    margin-left: 3rem;
+
+} 
+
+.bad
+{margin-top: 89px;
+}
+
+.for{
+margin-bottom: 70px;    
+}
+
+.back{
+margin-top: 3rem;
+margin-bottom: 7rem;
+background-color: black;
+color: white;
+padding-left: 1rem;
+padding-top: 1rem;
+padding-bottom:1rem;
+padding-right: 1rem;
+}
+
+.endl{
+margin-left: 25rem;
+}
+
